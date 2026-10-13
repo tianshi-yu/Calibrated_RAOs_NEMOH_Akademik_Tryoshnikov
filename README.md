@@ -1,10 +1,12 @@
-# Calibrated RAOs for Akademik Tryoshnikov from NEMOH using Field Observations
+# Paper Supplement: Calibrated RAOs for Akademik Tryoshnikov
 
 ## Introduction
-This repository contains response amplitude operators (RAOs) and hydrodynamic parameters for the research vessel Akademik Tryoshnikov, computed using the open-source software NEMOH and calibrated against field observations during Antarctic Circumnavigation Expedition (ACE).
+Supplementary materials for the paper:
 
-For details please refer to our research paper:
- [T. Yu, Z. Wang, F. Nelli, Y. Tan, G. Ducrozet, and A. Toffoli, “Assessing the ship motion prediction capabilities of the open-source model NEMOH against field observations,” Ocean Eng., vol. 344, Art. no. 123580, Jan. 2026, doi: 10.1016/j.oceaneng.2025.123580.](https://www.sciencedirect.com/science/article/pii/S0029801825032627) 
+[T. Yu, Z. Wang, F. Nelli, Y. Tan, G. Ducrozet, and A. Toffoli, “Assessing the ship motion prediction capabilities of the open-source model NEMOH against field observations,” Ocean Eng., vol. 344, Art. no. 123580, Jan. 2026, doi: 10.1016/j.oceaneng.2025.123580.](https://www.sciencedirect.com/science/article/pii/S0029801825032627) 
+ 
+This repository contains response amplitude operators (RAOs) and hydrodynamic parameters for the research vessel Akademik Tryoshnikov, computed using the open-source software NEMOH and calibrated against field observations during Antarctic Circumnavigation Expedition (ACE). For details please refer to the paper.
+
 
 ## Files
 ```text
